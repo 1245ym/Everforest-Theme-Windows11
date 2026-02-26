@@ -21,20 +21,18 @@ The script will automatically download all required assets and apply the theme.
 📁 Project Structure
 Code
 Everforest-Theme-Windows11/
-│
-├── assets/
-│   └── wallpapers/
-│       ├── everforest1.jpg
-│       └── everforest2.jpg
-│
-├── icons/
-│   └── everforest.7z
-│
-├── terminal/
-│   └── everforest.omp.json
-│
-└── install.ps1
-❤️ Credits
+
+-assets/
+   -wallpapers/
+      -everforest1.jpg
+    -icons/
+   -everforest.7z
+
+-terminal/
+  =everforest.omp.json
+-install.ps1
+❤️ Credits⬇️
+
 Everforest palette by Sainnhe.
 Icon pack and visual assets belong to their respective creators.
 This project automates installation for Windows 11 users.
